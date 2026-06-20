@@ -1,0 +1,9 @@
+.vscode/**
+.vscode-test/**
+.gitignore
+Makefile
+check_band.py
+_refs/**
+__pycache__/**
+*.pyc
+eink-gray-colors-bands.md

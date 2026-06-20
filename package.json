@@ -3,7 +3,7 @@
 	"displayName": "Dark+ Contrast EINK 60HZ",
 	"description": "Dark+ with black background and enhanced contrast, optimized for e-ink displays at 60Hz. Inspired by the Dark+ Contrast theme by k3a.",
 	"categories": [ "Themes" ],
-	"version": "1.76.0",
+	"version": "2026.6.20-1",
 	"publisher": "lamnguyenx",
 	"repository": {
 		"type": "git",
@@ -14,7 +14,7 @@
 		"themes": [
 			{
 				"label": "Dark+ Contrast EINK 60HZ",
-				"uiTheme": "vs-dark",
+				"uiTheme": "hc-black",
 				"path": "./themes/dark_plus.json"
 			}
 		],

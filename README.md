@@ -41,6 +41,14 @@ The theme includes `semanticTokenColors` rules so TypeScript, JavaScript, Java, 
 
 ---
 
+## Implementation Note: `uiTheme`
+
+The extension's `package.json` declares `"uiTheme": "hc-black"` — not `"vs-dark"`. This tells VS Code to use the built-in high-contrast black UI base for all chrome (status bar, activity bar, sidebar, tabs, panels, menus, etc.) automatically. Without this, UI elements would fall back to the default dark theme's blue styling, breaking the high-contrast look.
+
+The theme file itself (`themes/dark_plus.json`) only needs to define editor-area colors (background, selection, etc.) — everything else is inherited from `hc-black`.
+
+---
+
 ## Design Principles
 
 1. **Hierarchy over decoration** — every font style maps to a semantic category; nothing is arbitrarily bold or italic
