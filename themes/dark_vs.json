@@ -60,7 +60,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#8fc676"
+				"foreground": "#7faf69"
 			}
 		},
 		{
@@ -101,7 +101,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#9cdcfe"
+				"foreground": "#8cc6e5"
 			}
 		},
 		{
@@ -212,7 +212,7 @@
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#fcb395"
+				"foreground": "#ffbc9c"
 			}
 		},
 		{
@@ -224,7 +224,7 @@
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#9cdcfe"
+				"foreground": "#8cc6e5"
 			}
 		},
 		{
@@ -260,19 +260,19 @@
 				"meta.embedded.assembly"
 			],
 			"settings": {
-				"foreground": "#e5a287"
+				"foreground": "#ffbc9c"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
-				"foreground": "#fcb295"
+				"foreground": "#ffbc9d"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#fdb79b"
+				"foreground": "#ffbda0"
 			}
 		},
 		{
@@ -311,7 +311,7 @@
 				"source.coffee.embedded"
 			],
 			"settings": {
-				"foreground": "#9cdcfe"
+				"foreground": "#8cc6e5"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 		{
 			"scope": "support.function.git-rebase",
 			"settings": {
-				"foreground": "#9cdcfe"
+				"foreground": "#8cc6e5"
 			}
 		},
 		{

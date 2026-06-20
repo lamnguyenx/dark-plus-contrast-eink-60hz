@@ -1,19 +1,19 @@
 {
-	"name": "theme-dark-plus-contrast",
-	"displayName": "Default Dark+ Contrast",
-	"description": "The default Dark+ with black background and few other tweaks to improve contrast. Based on the original Dark+ theme.",
+	"name": "dark-plus-contrast-eink-60hz",
+	"displayName": "Dark+ Contrast EINK 60HZ",
+	"description": "Dark+ with black background and enhanced contrast, optimized for e-ink displays at 60Hz. Inspired by the Dark+ Contrast theme by k3a.",
 	"categories": [ "Themes" ],
 	"version": "1.76.0",
-	"publisher": "k3a",
+	"publisher": "lamnguyenx",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/k3a/theme-darkplus-contrast"
+		"url": "https://github.com/lamnguyenx/dark-plus-contrast-eink-60hz"
 	},
 	"engines": { "vscode": "*" },
 	"contributes": {
 		"themes": [
 			{
-				"label": "Dark+ (contrast)",
+				"label": "Dark+ Contrast EINK 60HZ",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark_plus.json"
 			}
